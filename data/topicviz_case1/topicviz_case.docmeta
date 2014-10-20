@@ -1,0 +1,509 @@
+Learning to Find English to Chinese Transliterations on the Web
+Classifying Chinese Texts in Two Steps
+A Self-Learning System For The Chinese Characters
+Accessor Variety Criteria For Chinese Word Extraction
+Keyword Translation Accuracy And Cross-Lingual Question Answering InChinese And Japanese
+An Evaluation Of Anaphor Generation In Chinese
+Opinion Annotation in On-line Chinese Product Reviews
+Automatic Seed Word Selection for Unsupervised Sentiment Classification of Chinese Text
+An Empirical Comparison of Goodness Measures for Unsupervised Chinese Word Segmentation with a Unified Framework
+Chinese Base-Phrases Chunking
+Corpus-oriented Acquisition of Chinese Grammar
+"Disambiguating ""DE"" for Chinese-English Machine Translation"
+Russian-French At GETA: Outline Of The Method And Detailed Example
+A Lexicon-Constrained Character Model for Chinese Morphological Analysis
+NIL Is Not Nothing: Recognition of Chinese Network Informal Language Expressions
+Transtar - A Commercial English-Chinese MT System
+"On UNL As The Future ""HTML Of The Linguistic Content"" And The Reuse Of Existing NLP Components In UNL-Related Applications With The Example Of A UNL-French Deconverter"
+Constructing Of A Large-Scale Chinese-English Parallel Corpus
+An LSA Implementation Against Parallel Texts In French And English
+Hybrid Methods For POS Guessing Of Chinese Unknown Words
+Improving Nominal SRL in Chinese Language with Verbal SRL Information and Automatic Predicate Recognition
+Monolingual Web-Based Factoid Question Answering In Chinese,Swedish, English And Japanese
+Using N-Best Lists For Named Entity Recognition From Chinese Speech
+A Maximum Entropy Approach to Chinese Word Segmentation
+An Error-Driven Word-Character Hybrid Model for Joint Chinese Word Segmentation and POS Tagging
+EASY, Evaluation of Parsers of French: what are the Results?
+From Structure To Process Computer-Assisted Teaching Of Various Strategies For Generating Pronoun Constructions In French
+Identifying Correspondences Between Words: An Approach Based On A Bilingual Syntactic Analysis Of French/English Parallel Corpora
+Integrating Collocation Features in Chinese Word Sense Disambiguation
+Chinese Named Entity And Relation Identification System
+Maximal Match Chinese Segmentation Augmented by Resources Generated from a Very Large Dictionary for Post-Processing
+Using Synonym Relations In Chinese Collocation Extraction
+Two-Phase Shift-Reduce Deterministic Dependency Parser of Chinese
+Chinese Sketch Engine and the Extraction of Grammatical Collocations
+Statistics Based Hybrid Approach To Chinese Base Phrase Identification
+An Agent-Based Approach To Chinese Named Entity Recognition
+Chinese Text Summarization Based On Thematic Area Detection
+PASSAGE: from French Parser Evaluation to Large Sized Treebank
+Query Translation In Chinese-English Cross-Language Information Retrieval
+Integrating a Unification-Based Semantics in a Large Scale Lexicalised Tree Adjoining Grammar for French
+Improving English And Chinese Ad-Hoc Retrieval: TIPSTER Text Phase 3 Final Report
+Adapting An English Morphological Analyzer For French
+English-Chinese CLIR Using A Simplified PIRCS System
+Segmentation Of Chinese Long Sentences Using Commas
+Two Statistical Parsing Models Applied To The Chinese Treebank
+Automatic Chinese Abbreviation Generation Using Conditional Random Field
+Subword-Based Tagging For Confidence-Dependent Chinese Word Segmentation
+Categorical Ambiguity And Information Content: A Corpus-Based Study Of Chinese
+The Grapho-Phonological System Of Written French: Statistical Analysis And Empirical Validation
+Automatic Adaptation of Annotation Standards: Chinese Word Segmentation and POS Tagging &#8211; A Case Study
+On Statistical Parsing of French with Supervised and Semi-Supervised Strategies
+Data Homogeneity And Semantic Role Tagging In Chinese
+Chinese Unknown Word Translation by Subword Re-segmentation
+A Real-Time Integration Of Concept-Based Search And Summarization Of Chinese Websites
+A Model For Processing Temporal References In Chinese
+Parsing Arguments Of Nominalizations In English And Chinese
+Voting Between Dictionary-Based And Subword Tagging Models For Chinese Word Segmentation
+Annotating The Propositions In The Penn Chinese Treebank
+The Implementation Of A Computational Grammar Of French Using The Grammar Development Environment
+A Complexity Measure For Diachronic Chinese Phonology
+A Chinese-English Organization Name Translation System Using Heuristic Web Mining and Asymmetric Alignment
+A Pragmatic Chinese Word Segmentation System
+Chinese Numbers, Mix, Scrambling, And Concatenation Grammars Range
+Constructing Verb Semantic Classes For French: Methods And Evaluation
+Automatic Extraction Of Chinese Multiword Expressions With A Statistical Tool
+Semantic Annotation Of Chinese Phrases Using Recursive Graph
+Identification and Resolution of Chinese Zero Pronouns: A Machine Learning Approach
+Chinese Word Segmentation in ICT-NLP
+Discursive Usage Of Six Chinese Punctuation Marks
+Exploiting the Role of Position Feature in Chinese Relation Extraction
+Integrating Punctuation Rules and Na?ve Bayesian Model for Chinese Creation Title Recognition
+French Order Without Order
+Identification And Classification Of Proper Nouns In Chinese Texts
+Chinese Syntactic Parsing Based On Extended GLR Parsing Algorithm With PCFG
+Training and Evaluation of POS Taggers on the French MULTITAG Corpus
+Jurilinguistic Engineering In Cantonese Chinese: An N-Gram-Based Speech To Text Transcription System
+Capturing Errors in Written Chinese Words
+Professor or Screaming Beast? Detecting Anomalous Words in Chinese
+Parsing the Penn Chinese Treebank with Semantic Knowledge
+Characterization of Scientific and Popular Science Discourse in French, Japanese and Russian
+Chinese Named Entity Recognition with Cascaded Hybrid Model
+A Chunking Strategy Towards Unknown Word Detection in Chinese Word Segmentation
+Example-Based Sense Tagging Of Running Chinese Text
+Chinese Word Segmentation At Peking University
+Algorithms For Grapheme-Phoneme Translation For English And French: Applications For Database Searches And Speech Synthesis
+Learning Rules For Chinese Prosodic Phrase Prediction
+A Quasi-Dependency Model for Structural Analysis it of Chinese BaseNPs
+Mining Atomic Chinese Abbreviation Pairs: A Probabilistic Model For Single Character Word Recovery
+Achilles: NiCT/ATR Chinese Morphological Analyzer for the Fourth Sighan Bakeoff
+SemEval-2007 Task 05: Multilingual Chinese-English Lexical Sample
+Self-Organizing Chinese And Japanese Semantic Maps
+Parsing Chinese With An Almost-Context-Free Grammar
+A Model For Matching Semantic Maps Between Languages (French/English, English/French)
+Combining a Chinese Thesaurus with a Chinese Dictionary
+On Closed Task Of Chinese Word Segmentation: An Improved CRF Model Coupled With Character Clustering And Automatically Generated Template Matching
+Resolving Ambiguities of Chinese Conjunctive Structures by Divide-and-conquer Approaches
+Auxiliaries And Clitics In French UCG Grammar
+Extraction Of Chinese Compound Words - An Experimental Study On A Very Large Corpus
+A DAML+OIL-Compliant Chinese Lexical Ontology
+Acquisition Of English-Chinese Transliterated Word Pairs From Parallel-Aligned Texts Using A Statistical Machine Transliteration Model
+French-English Terminology Extraction from Comparable Corpora
+Homophones and Tonal Patterns in English-Chinese Transliteration
+Dependency Based Chinese Sentence Realization
+The First International Chinese Word Segmentation Bakeoff
+Synthesizing A Large Concept Hierarchy From French Hyperonyms
+Chinese Classifier Assignment Using SVMs
+The Standard of Chinese Corpus Metadata
+Training a Perceptron with Global and Local Features for Chinese Word Segmentation
+Building a Bilingual Representation of the Roget Thesaurus for French to English Machine Translation
+Automatic Recognition Of Chinese Unknown Words Based On Roles Tagging
+Automatic English-Chinese name transliteration for development of multilingual resources
+A Study of Applying BTM Model on the Chinese Chunk Bracketing
+Some Studies on Chinese Domain Knowledge Dictionary and Its Application to Text Classification
+Is It Harder To Parse Chinese, Or The Chinese Treebank?
+Categorial Fluidity In Chinese And Its Implications For Part-Of-Speech Tagging
+Building Parallel LTAG for French and Italian
+A Bottom-Up Merging Algorithm For Chinese Unknown Word Extraction
+Applying Repair Processing In Chinese Homophone Disambiguation
+A Phonetic-Based Approach To Chinese Chat Text Normalization
+Introduction To CKIP Chinese Word Segmentation System For The First International Chinese Word Segmentation Bakeoff
+PEAS, The First Instantiation Of A Comparative Framework For Evaluating Parsers Of French
+Automatic Compilation Of Modern Chinese Concordances
+Exploiting Unlabeled Text to Extract New Words of Different Semantic Transparency for Chinese Word Segmentation
+A Morpheme-based Part-of-Speech Tagger for Chinese
+Improving Word Alignment by Adjusting Chinese Word Segmentation
+Modeling Impression In Probabilistic Transliteration Into Chinese
+Realization Of The Chinese BA-Construction In An English-Chinese Machine Translation System
+Zero Anaphors In Chinese Discourse Processing
+Semantic Role Labeling Of Nominalized Predicates In Chinese
+Chinese Chunking With Another Type Of Spec
+Generating Chinese Couplets using a Statistical MT Approach
+Extending a Thesaurus with Words from Pan-Chinese Sources
+Towards A Mechanical Analysis Of French Tense Forms In Texts
+NetEase Automatic Chinese Word Segmentation
+Description of the NCU Chinese Word Segmentation and Part-of-Speech Tagging for SIGHAN Bakeoff 2007
+Word Class Discovery For Postprocessing Chinese Handwriting Recognition
+A Logic-Based Government-Binding Parser For Mandarin Chinese
+Annotating Information Structures In Chinese Texts Using HowNet
+Optimizing Chinese Word Segmentation for Machine Translation Performance
+Chinese Syntactic Reordering for Adequate Generation of Korean Verbal Phrases in Chinese-to-Korean SMT
+Automatic Construction Of A Chinese Electronic Dictionary
+Fine-Grained Lexical Semantic Representations And Compositionally-Derived Events In Mandarin Chinese
+Extracting Key Semantic Terms From Chinese Speech Query For Web Searches
+Issues In Text-To-Speech For French
+Chinese Word Segmentation in FTRD Beijing
+A Chinese Corpus For Linguistic Research
+Unsupervised Translation Induction for Chinese Abbreviations using Monolingual Corpora
+Chinese Core Ontology Construction from a Bilingual Term Bank
+Semantic Role Tagging for Chinese at the Lexical Level
+Improved Statistical Machine Translation by Multiple Chinese Word Segmentation
+Lexicalization In Crosslinguistic Probabilistic Parsing: The Case Of French
+A Hybrid Chinese Language Model based on a Combination of Ontology with Statistical Method
+An Algorithm For Situation Classification Of Chinese Verbs
+Using Language Resources in an Intelligent Tutoring System for French
+Using Structural Information for Identifying Similar Chinese Characters
+Single Character Chinese Named Entity Recognition
+A Method for Automatic POS Guessing of Chinese Unknown Words
+Extracting Terminologically Relevant Collocations in the Translation of Chinese Monograph
+Generation Of Vietnamese For French-Vietnamese And English-Vietnamese Machine Translation
+Chinese Word Segmentation Based On An Approach Of Maximum Entropy Modeling
+POC-NLW Template For Chinese Word Segmentation
+Using Bilingual Dependencies To Align Words In English/French Parallel Corpora
+Unigram Language Model for Chinese Word Segmentation
+Building A Large Chinese Corpus Annotated With Semantic Dependency
+First Steps towards a General Purpose French/English Statistical Machine Translation System
+Adapting An Example-Based Translation System To Chinese
+A Hybrid Approach To Chinese Base Noun Phrase Chunking
+Blending Segmentation With Tagging In Chinese Language Corpus Processing
+Word Identification For Mandarin Chinese Sentences
+A High-Accurate Chinese-English NE Backward Translation System Combining Both Lexical Information And Web Statistics
+Do We Need Chinese Word Segmentation For Statistical Machine Translation?
+Modelling Speech Repairs In German And Mandarin Chinese Spoken Dialogues
+Efficient Parsing For French
+Chinese Whispers - An Efficient Graph Clustering Algorithm And Its Application To Natural Language Processing Problems
+Chinese Named Entity Recognition With Conditional Random Fields
+Using Co-Occurrence Statistics As An Information Source For Partial Parsing Of Chinese
+Unsupervised Training For Overlapping Ambiguity Resolution In Chinese Word Segmentation
+Automatic Information Transfer Between English And Chinese
+Report to BMM-based Chinese Word Segmentor with Context-based Unknown Word Identifier for the Second International Chinese Word Segmentation Bakeoff
+Subword-Based Tagging By Conditional Random Fields For Chinese Word Segmentation
+The Second International Chinese Word Segmentation Bakeoff
+HMM and CRF Based Hybrid Model for Chinese Lexical Analysis
+Lexicon-Grammar And The Syntactic Analysis Of French
+A Trainable Method For Extracting Chinese Entity Names And Their Relations
+Knowledge Integration In A Robust And Efficient Morpho-Syntactic Analyzer For French
+Unsupervised Segmentation Of Chinese Text By Use Of Branching Entropy
+PENS: A Machine-Aided English Writing System For Chinese Users
+A Hybrid Approach to Chinese Word Segmentation around CRFs
+Knowledge Extraction For Identification Of Chinese Organization Names
+Using Bilingual Knowledge and Ensemble Techniques for Unsupervised Chinese Sentiment Analysis
+Man-Aided Computer, Translation From English Into French Using An On-Line System To Manipulate A Bi-Lingual Conceptual Dictionary, Or Thesaurus
+Unknown Word Extraction For Chinese Documents
+A Distributed Architecture For Text Analysis In French: An Application To Complex Linguistic Phenomena Processing
+Morpheme-Based Derivation Of Bipolar Semantic Orientation Of Chinese Words
+Synergy Of Syntax And Morphology In Automatic Parsing Of French Language With A Minimum Of Data
+Using Morphological and Syntactic Structures for Chinese Opinion Analysis
+Language Specific Issue and Feature Exploration in Chinese Event Extraction
+Combining Classifiers For Chinese Word Segmentation
+HMM-Based Part-Of-Speech Tagging For Chinese Corpora
+Automatic Detecting/Correcting Errors In Chinese Text By An Approximate Word-Matching Algorithm
+A Semi-Supervised Approach To Build Annotated Corpus For Chinese Named Entity Recognition
+Chinese Syntactic Reordering for Statistical Machine Translation
+Resolving Pronominal References in Chinese with the Hobbs Algorithm
+Improving Chinese Semantic Role Classification with Hierarchical Feature Selection Strategy
+A Three-Step Deterministic Parser for Chinese Dependency Parsing
+An Efficient Natural Language Processing System Specially Designed For The Chinese Language
+First Results Of A French Linguistic Development Environment
+Local Context Templates For Chinese Constituent Boundary Prediction
+Fundamentals of Chinese Language Processing
+An Integrated Method For Chinese Unknown Word Extraction
+Annotating Discourse Connectives In The Chinese Treebank
+The Construction Of A Chinese Shallow Treebank
+SemEval-2007 Task 11: English Lexical Sample Task via English-Chinese Parallel Text
+Chinese Novelty Mining
+Cooperative File Improvement And Use Of A Computer-Based Chinese/English Dictionary
+A Block-Based Robust Dependency Parser For Unrestricted Chinese Text
+Enhancement Of A Chinese Discourse Marker Tagger With C4.5
+An Empirical Study On The Generation Of Anaphora In Chinese
+Mining and Modeling Relations between Formal and Informal Chinese Phrases from Web Corpora
+Typology Study Of French Technical Texts, With A View To Developing A Machine Translation System
+Construction of a Blog Emotion Corpus for Chinese Emotional Expression Analysis
+Chinese Number-Names, Tree Adjoining Languages, And Mild Context-Sensitivity
+French Amalgam: A Quick Adaptation Of A Sentence Realization System To French
+A Research on Automatic Chinese Catchword Extraction
+A Multi-Genre SMT System for Arabic to French
+A Chinese Efficient Analyser Integrating Word Segmentation, Part-Of-Speech Tagging, Partial Parsing And Full Parsing
+Preliminary Chinese Term Classification for Ontology Construction
+Document Re-Ranking Based On Automatically Acquired Key Terms In Chinese Information Retrieval
+A New Statistical Approach To Chinese Pinyin Input
+Robust and Efficient Chinese Word Dependency Analysis with Linear Kernel Support Vector Machines
+An Editor For The Explanatory And Combinatory Dictionary Of Contemporary French (DECFC)
+Designing Special Post-Processing Rules For SVM-Based Chinese Word Segmentation
+Subcategorization Acquisition And Evaluation For Chinese Verbs
+When Conset Meets Synset: A Preliminary Survey Of An Ontological Lexical Resource Based On Chinese Characters
+Applying a Mix Word-Pair Identifier to the Chinese Syllable-to-Word Conversion Problem
+Projecting POS Tags And Syntactic Dependencies From English And French To Polish In Aligned Corpora
+Tagging French - Comparing A Statistical And A Constraint-Based Method
+Rethinking Chinese Word Segmentation: Tokenization, Character Classification, or Wordbreak Identification
+Chinese And Japanese Word Segmentation Using Word-Level And Character-Level Information
+Description Of The NCU Chinese Word Segmentation And Named Entity Recognition System For SIGHAN Bakeoff 2006
+Annotating Chinese Collocations with Multi Information
+Character Language Models For Chinese Word Segmentation And Named Entity Recognition
+Maximum Entropy Word Segmentation Of Chinese Text
+A Two-Stage Approach to Chinese Part-of-Speech Tagging
+Adaptive Chinese Word Segmentation
+Structural Patterns Of Chinese Characters
+Comparing Lexicalized Treebank Grammars Extracted From Chinese, Korean, And English Corpora
+Automatic Construction Of Parallel English-Chinese Corpus For Cross-Language Information Retrieval
+Bootstrapping Both Product Features and Opinion Words from Chinese Customer Reviews with Cross-Inducing
+Chinese Word Segmentation With Maximum Entropy And N-Gram Language Model
+Chinese Word Segmentation Using Various Dictionaries
+Semantic Labeling of Compound Nominalization in Chinese
+Compiling Bilingual Lexicon Entries From A Non-Parallel English-Chinese Corpus
+Chinese Word Segmentation Based On Maximum Matching And Word Binding Force
+An Acquisition Model For Both Choosing And Resolving Anaphora In Conjoined Mandarin Chinese Sentences
+Linguistic Contributions To Text-To-Speech Computer Programs For French
+Building a Statistical Machine Translation System for French Using the Europarl Corpus
+Identifying Foreign Person Names in Chinese Text
+Chinese Unknown Word Identification Using Character-Based Tagging And Chunking
+An Empirical Study On The Generation Of Zero Anaphors In Chinese
+A Discriminative Latent Variable Chinese Segmenter with Hybrid Word/Character Information
+TBL-Improved Non-Deterministic Segmentation and POS Tagging for a Chinese Parser
+A Subcategorization Acquisition System for French Verbs
+A System For Translating Locative Prepositions From English Into French
+Generating French With A Reversible Unification Grammar
+Improving Arabic-Chinese Statistical Machine Translation using English as Pivot Language
+Kinds of Features for Chinese Opinionated Information Retrieval
+A Context-Free Grammar Of French
+Sense-Tagging Chinese Corpus
+OLACMS: Comparisons And Applications In Chinese And Formosan Languages
+Two-Character Chinese Word Extraction Based On Hybrid Of Internal And Contextual Measures
+Perceptron Learning for Chinese Word Segmentation
+Word Lattice Reranking for Chinese Word Segmentation and Part-of-Speech Tagging
+Chinese Term Extraction Using Different Types of Relevance
+On Using Ensemble Methods For Chinese Named Entity Recognition
+Can Chinese Phonemes Improve Machine Transliteration?: A Comparative Study of English-to-Chinese Transliteration Models
+A Maximum Entropy Chinese Character-Based Parser
+Semantic Frame Annotation on the French MEDIA corpus
+Improved Source-Channel Models For Chinese Word Segmentation
+Conversion Of A French Surface Expression Into Its Semantic Representation According To The Reseda Metalanguage
+Building a Japanese-Chinese Dictionary Using Kanji/Hanzi Conversion
+Learning Translation Skills With A Knowledge-Based Tutor: French-Italian Conjunctions In Context
+Analyzing Chinese Synthetic Words with Tree-based Information and a Survey on Chinese Morphologically Derived Words
+Chinese Named Entity Recognition With Multiple Features
+A SVM-Based Model For Chinese Functional Chunk Parsing
+Extending a Thesaurus in the Pan-Chinese Context
+Chinese Named Entity Recognition With A Multi-Phase Model
+Annotation Guidelines for Chinese-Korean Word Alignment
+Automatic Recognition of Logical Relations for English, Chinese and Japanese in the GLARF Framework
+The Chinese Aspect Generation Based on Aspect Selection Functions
+Corpus-Based Adaptation Mechanisms For Chinese Homophone Disambiguation
+Combining Context Features by Canonical Belief Network for Chinese Part-Of-Speech Tagging
+Covering Ambiguity Resolution In Chinese Word Segmentation Based On Contextual Information
+A Stochastic Finite-State Word-Segmentation Algorithm For Chinese
+An Equivalent Pseudoword Solution To Chinese Word Sense Disambiguation
+Hybrid Models for Semantic Classification of Chinese Unknown Words
+Latent Features In Automatic Tense Translation Between Chinese And English
+PCFG Parsing For Restricted Classical Chinese Texts
+Chinese Word Segmentation And Named Entity Recognition By Character Tagging
+Word Alignment Annotation in a Japanese-Chinese Parallel Corpus
+Discriminative Pruning Of Language Models For Chinese Word Segmentation
+An Example-Based Chinese Word Segmentation System for CWSB-2
+Chinese Word Sense Disambiguation with PageRank and HowNet
+Detection Of Entity Mentions Occuring In English And Chinese Text
+A Two-Stage Statistical Word Segmentation System For Chinese
+Semi-Automatic Construction Of Korean-Chinese Verb Patterns Based On Translation Equivalency
+Chinese Named Entity Recognition and Word Segmentation Based on Character
+Chinese Semantic Role Labeling with Shallow Parsing
+Integrating Ngram Model And Case-Based Learning For Chinese Word Segmentation
+Improving Chinese Tokenization With Linguistic Filters On Statistical Lexical Acquisition
+Word Alignment Of English-Chinese Bilingual Corpus Based On Chucks
+Chinese Term Extraction From Web Pages Based On Compound Term Productivity
+A Study''of Some Lexical Differences Between French And Englisfi Instructions In A Multilingual Generation Framework
+Chinese Dependency Parsing with Large Scale Automatically Constructed Case Structures
+Evaluating Question-Answering Techniques In Chinese
+HIT-WSD: Using Search Engine for Multilingual Chinese-English Lexical Sample Task
+Using Part-Of-Speech Reranking To Improve Chinese Word Segmentation
+Chinese Verb Sense Discrimination Using An EM Clustering Model With Rich Linguistic Features
+Paraphrasing Of Chinese Utterances
+Using Word Support Model To Improve Chinese Input System
+An Interpretative Data Analysis Of Chinese Named Entity Subtypes
+Cluster-Based Language Model For Sentence Retrieval In Chinese Question Answering
+LexSchem: a Large Subcategorization Lexicon for French Verbs
+New Telephone Speech Databases for French: a Children Database and an optimized Adult Corpus
+English-Chinese Bi-Directional OOV Translation based on Web Mining and Supervised Learning
+Automatic Extraction of English-Chinese Transliteration Pairs using Dynamic Window and Tokenizer
+Chinese Word Segmentation As LMR Tagging
+Chinese Generation In A Spoken Dialogue Translation System
+Chinese Word Segmentation And Named Entity Recognition: A Pragmatic Approach
+A Clustering Algorithm For Chinese Adjectives And Nouns
+CTEMP: A Chinese Temporal Parser for Extracting and Normalizing Temporal Information
+Word Meaning Inducing via Character Ontology: A Survey on the Semantic Prediction of Chinese Two-Character Words
+A Character-Net Based Chinese Text Segmentation Method
+Automatic Recognition of French Expletive Pronoun Occurrences
+Chinese Named Entity Recognition With Conditional Probabilistic Models
+Automatic Semantic Classification For Chinese Unknown Compound Nouns
+Chinese Word Segmentation In MSR-NLP
+Automatic Construction Of An English-Chinese Bilingual FrameNet
+BMM-Based Chinese Word Segmentor With Word Support Model For The SIGHAN Bakeoff 2006
+A Pattern-Based Analyzer For French In The Context Of Spoken Language Translation: First Prototype And Evaluation
+Chinese Word Segmentation without Using Lexicon and Hand-crafted Training Data
+Chinese Word Segmentation and Named Entity Recognition Based on Conditional Random Fields
+An Iterative Algorithm To Build Chinese Language Models
+Shallow Semantic Parsing Of Chinese
+Segmentation Of French Sentences
+Automatic Inference of the Temporal Location of Situations in Chinese Text
+Hybrid Models For Chinese Named Entity Recognition
+Labeling Chinese Predicates with Semantic Roles
+ASCOF - A Modular Multilevel System For French-German Translation
+A Parser Without A Dictionary As A Tool For Research Into French Syntax
+How Should A Large Corpus Be Built? - A Comparative Study Of Closure In Annotated Newspaper Corpora From Two Chinese Sources, Towards Building A Larger Representative Corpus Merged From Representative Sublanguage Collections
+Mining Chinese-English Parallel Corpora from the Web
+A Parallel Proposition Bank II For Chinese And English
+Building Chinese Sense Annotated Corpus with the Help of Software Tools
+Towards a Hybrid Model for Chinese Word Segmentation
+An Empirical Study Of Chinese Chunking
+Measure Word Generation for English-Chinese SMT Systems
+Anomaly Detecting Within Dynamic Chinese Chat Text
+Chinese Word Segmentation And Named Entity Recognition Based On A Context-Dependent Mutual Information Independence Model
+An Agent-Based Approach to Chinese Word Segmentation
+Discriminative Reordering with Chinese Grammatical Relations Features
+Bayesian Semi-Supervised Chinese Word Segmentation for Statistical Machine Translation
+The Chinese Aspect System And Its Semantic Interpretation
+Chinese Word Segmentation Based On Direct Maximum Entropy Model
+Mapping Roget?s Thesaurus and WordNet to French
+Two-Phase LMR-RC Tagging for Chinese Word Segmentation
+A Hierarchical Parsing Approach with Punctuation Processing for Long Chinese Sentences
+Modeling Chinese Documents with Topical Word-Character Models
+An Improved CRF based Chinese Language Processing System for SIGHAN Bakeoff 2007
+ILP-based Conceptual Analysis for Chinese NPs
+Chinese Word Segmentation based on Mixing Model
+Semantic Classification Of Chinese Unknown Words
+How To Get A Chinese Name (Entity): Segmentation And Combination Issues
+Hypothesis Scoring Over Theta Grids Information In Parsing Chinese Sentences With Serial Verb Constructions
+Building an Annotated Japanese-Chinese Parallel Corpus ?C A Part of NICT Multilingual Corpora
+A Cascaded Linear Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging
+The Effect Of Rhythm On Structural Disambiguation In Chinese
+Optimizing Feature Set For Chinese Word Sense Disambiguation
+Chinese String Searching Using The KMP Algorithm
+News-Oriented Automatic Chinese Keyword Indexing
+A Pragmatic Approach To Machine Translation From Chinese To English
+Chinese Segmentation Disambiguation
+Character-Based Collocation For Mandarin Chinese
+Chinese-English Term Translation Mining Based On Semantic Prediction
+Aligning A Parallel English-Chinese Corpus Statistically With Lexical Criteria
+Telicity As A Cue To Temporaland Discourse Structure In Chinese-English Machine Translation
+Combining Segmenter And Chunker For Chinese Word Segmentation
+Targeting Chinese Nominal Compounds in Corpora
+Chinese-Japanese Cross Language Information Retrieval: A Han Character Based Approach
+Chinese Deterministic Dependency Analyzer: Examining Effects of Global Features and Root Node Finder
+Applying An NVEF Word-Pair Identifier To The Chinese Syllable-To-Word Conversion Problem
+A Framework Based on Graphical Models with Logic for Chinese Named Entity Recognition
+Chinese Text Segmentation With MBDP-1: Making The Most Of Training Corpora
+A Compression-Based Algorithm For Chinese Word Segmentation
+Synchronous TAGs And French Pronominal Clitics
+Towards Linguistic Knowledge Discovery Assistants: Application To Learning Lexical Properties Of Chinese Characters
+Chinese-Korean Word Alignment Based On Linguistic Comparison
+Mining Discourse Markers For Chinese Textual Summarization
+Chinese Named Entity Identification Using Class-Based Language Model
+A New Chinese Natural Language Understanding Architecture Based On Multilayer Search Mechanism
+Chinese Input System With Artificial Intelligence
+Extracting Pronunciation-Translated Names From Chinese Texts Using Bootstrapping Approach
+Parsing French With Tree Adjoining Grammar: Some Linguistic Accounts
+Discriminative Lexicon Adaptation for Improved Character Accuracy - A New Direction in Chinese Language Modeling
+SOAT: A Semi-Automatic Domain Ontology Acquisition Tool From Chinese Corpus
+Regional Variation Of Domain-Specific Lexical Items: Toward A Pan-Chinese Lexical Resource
+Dependency-Based Syntactic Analysis Of Chinese And Annotation Of Parsed Corpus
+Arabic to French Sentence Alignment: Exploration of A Cross-language Information Retrieval Approach
+Unsupervised Classification of Sentiment and Objectivity in Chinese Text
+Adaptive Compression-Based Approach For Chinese Pinyin Input
+Toward Using Morphology in French-English Phrase-Based SMT
+Chinese Word Segmentation with Multiple Postprocessors in HIT-IRLab
+How And Where Do People Fail With Time: Temporal Reference Mapping Annotation By Chinese And English Bilinguals
+A Statistically Emergent Approach For Language Processing: Application To Modeling Context Effects In Ambiguous Chinese Word Boundary Perception
+An Improved Statistical Transfer System for French-English Machine Translation
+Effects of Related Term Extraction in Transliteration into Chinese
+Modeling Of Long Distance Context Dependency In Chinese
+A Stochastic Finite-State Word-Segmentation Algorithm For Chinese
+Recovering Non-Local Dependencies for Chinese
+Improved-Edit-Distance Kernel for Chinese Relation Extraction
+A Knowledge Based Approach To Identification Of Serial Verb Construction In Chinese-To-Korean Machine Translation System
+Chunking-Based Chinese Word Tokenization
+Recent Improvements in the CMU Large Scale Chinese-English SMT System
+Chinese Segmentation And New Word Detection Using Conditional Random Fields
+Knowledge Acquisition And Chinese Parsing Based On Corpus
+Chinese Word Segmentation Using Minimal Linguistic Knowledge
+A Classification-based Algorithm for Consistency Check of Part-of-Speech Tagging for Chinese Corpora
+CSeg&Tag1.0: A Practical Word Segmenter And POS Tagger For Chinese Texts
+System Support In Chinese Data Entry
+Automatic Processing Of Written French Language
+Detecting Segmentation Errors in Chinese Annotated Corpus
+Mining a Comparable Text Corpus for a Vietnamese-French Statistical Machine Translation System
+Aligning Sentences In Bilingual Texts French - English And French - Arabic
+I2R: Three Systems for Word Sense Discrimination, Chinese Word Sense Disambiguation, and English Word Sense Disambiguation
+Topic Identification In Chinese Based On Centering Model
+Automatic Representation Of The Semantic Relationships Corresponding To A French Surface Expression
+Reduced N-Gram Models For English And Chinese Corpora
+The Fourth International Chinese Language Processing Bakeoff: Chinese Word Segmentation, Named Entity Recognition and Chinese POS Tagging
+Design Of Chinese Morphological Analyzer
+Chinese Tagging Based on Maximum Entropy Model
+Two Step Chinese Named Entity Recognition Based on Conditional Random Fields Models
+Extraction Of Translation Unit From Chinese-English Parallel Corpora
+Statistical Transfer Systems for French-English and German-English Machine Translation
+Description of the HKU Chinese Word Segmentation System for Sighan Bakeoff 2005
+PrepLex: A Lexicon of French Prepositions for Parsing
+The Third International Chinese Language Processing Bakeoff: Word Segmentation And Named Entity Recognition
+Automatic Rule Acquisition for Chinese Intra-chunk Relations
+Chinese Information Extraction And Retrieval
+Combining Neural Networks And Statistics For Chinese Word Sense Disambiguation
+Semantic Analysis Of Chinese Garden-Path Sentences
+Direkt Profil: A System For Evaluating Texts Of Second Language Learners Of French Based On Developmental Sequences
+Learning Chinese Bracketing Knowledge Based On A Bilingual Language Model
+Decision Lists For Lexical Ambiguity Resolution: Application To Accent Restoration In Spanish And French
+A Chinese Word Segmentation System Based on Cascade Model
+Building A Large-Scale Annotated Chinese Corpus
+Use Of Heuristic Knowledge In Chinese Language Analysis
+A Comparison And Semi-Quantitative Analysis Of Words And Character-Bigrams As Features In Chinese Text Categorization
+Boosting For Chinese Named Entity Recognition
+Applying Machine Learning To Chinese Temporal Relation Resolution
+Representation And Processing Of Chinese Nominals And Compounds
+A Study of Chinese Lexical Analysis Based on Discriminative Models
+Statistically-Enhanced New Word Identification In A Rule-Based Chinese System
+Temporal Information And Discourse Relations In Narratives: The Role Of French Connectives ''Puis'' And ''Un Peu Plus Tard''
+Semantic Role Labeling of Chinese Using Transductive SVM and Semantic Heuristics
+Human Factors And Linguistic Considerations: Keys To High-Speed Chinese Character Input
+SRCB-WSD: Supervised Chinese Word Sense Disambiguation with Key Features
+Use of Event Types for Temporal Relation Identification in Chinese Text
+Transformation Based Chinese Entity Detection and Tracking
+Expressing Quantifier Scope In French Generation
+Chinese Term Extraction Using Minimal Resources
+Compiling French-Japanese Terminologies From The Web
+English-Chinese Machine Translation System IMT/EC
+The Semantic Knowledge-Base Of Contemporary Chinese And Its Applications In WSD
+Treebank-Based Acquisition of LFG Parsing Resources for French
+Chinese Word Segmentation And Named Entity Recognition Based On Conditional Random Fields Models
+An IBM-PC Environment For Chinese Corpus Analysis
+NOKIA Research Center Beijing Chinese Word Segmentation System for the SIGHAN Bakeoff 2007
+SYSTRAN''s Chinese Word Segmentation
+Investigating The Relationship Between Word Segmentation Performance And Retrieval Performance In Chinese IR
+A Maximum Entropy Approach To HowNet-Based Chinese Word Sense Disambiguation
+Simple Features For Chinese Word Sense Disambiguation
+Automatic Construction of a Japanese-Chinese Dictionary via English
+Character-Sense Association And Compounding Template Similarity: Automatic Semantic Classification Of Chinese Compounds
+A Fast, Accurate Deterministic Parser For Chinese
+Complex Features In Description Of Chinese Language
+Combination of Machine Learning Methods for Optimum Chinese Word Segmentation
+Chinese Segmentation with a Word-Based Perceptron Algorithm
+An Enhanced Model For Chinese Word Segmentation And Part-Of-Speech Tagging
+Text Meaning Representation For Chinese
+Using Word-Pair Identifier to Improve Chinese Input System
+A Chinese Characters Coding Scheme For Computer Input And Internal Stopage
+Speech Errors on Frequently Observed Homophones in French: Perceptual Evaluation vs Automatic Classification
+Lexicon Effects On Chinese Information Retrieval
+Chinese Term Extraction Based on Delimiters
+A Statistics-Based Chinese Parser
+Combining Deep Linguistics Analysis And Surface Pattern Learning: A Hybrid Approach To Chinese Definitional Question Answering
+Chinese-English Backward Transliteration Assisted with Mining Monolingual Web Pages
+A Novel Feature-based Approach to Chinese Entity Relation Extraction
+Accurate Learning for Chinese Function Tags from Minimal Features
+Investigation in Statistical Language-Independent Approaches for Opinion Detection in English, Chinese and Japanese
+A Clustering Approach For Unsupervised Chinese Coreference Resolution
+A Large-Scale Semantic Structure For Chinese Sentences
+Interactive Chinese-To-English Speech Translation Based On Dialogue Management
+Chinese NER Using CRFs and Logic for the Fourth SIGHAN Bakeoff
+A Knowledge-Based Machine-Aided System For Chinese Text Abstraction
+Dynamic Lexical Acquisition In Chinese Sentence Analysis
+Machine Learning Methods For Chinese Web Page Categorization
+CHINERS: A Chinese Named Entity Recognition System For The Sports Domain
+Segmentation Standard For Chinese Natural Language Processing
