@@ -16,8 +16,8 @@ public class Doc {
 	ArrayList<Float> weight;  
 	//display parameters 
 	//public static final float r=7f, dr2=14, dr22=196; 
-	//public static final float r=5f, dr2=10, dr22=100; 
-	public static final float r=2f, dr2=4, dr22=16; 
+	public static final float r=5f, dr2=10, dr22=100; 
+	//public static final float r=2f, dr2=4, dr22=16; 
 	public static ArrayList<Topic> topics; 
 	public static Layout layout; 
 	Color color; 
